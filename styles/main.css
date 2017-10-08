@@ -16,15 +16,15 @@ body {
   color: white;
   font-size: 50px;
 }
-#txtResult {
-  grid-column: 1/5;
-  grid-row: 2;
-  background: black;
-  color: white;
-}
 button {
-  background: #EEE;
+  border-radius:10px;
   color: black;
+}
+.functionKey {
+  background: #999999;
+}
+.enterKey {
+  background: #ffffff;
 }
 #btn1 {
   grid-column: 1;
